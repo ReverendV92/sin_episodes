@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sirgibs\sinepisode\elexis\Body"
+	"$bumpmap" "models\sirgibs\sinepisode\elexis\BodyWet_normal"
+	"$model" 1
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "6.000000"
+	"$phongfresnelranges" "[ 0.200000 0.600000 1.000000 ]"
+	"$phongboost" "4.00000"	
+	
+}

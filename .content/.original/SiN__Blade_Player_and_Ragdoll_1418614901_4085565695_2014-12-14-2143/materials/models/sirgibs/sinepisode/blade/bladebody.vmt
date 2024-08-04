@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/sirgibs/sinepisode/blade/bladebody"
+	"$model" 1
+	//"$selfillum" 1
+	"$bumpmap" "models/sirgibs/sinepisode/blade/BladeBody_normal"
+	"$phong" "1"
+	"$phongexponent" "21.000000"
+	"$phongfresnelranges" "[ 0.200000 0.600000 1.000000 ]"
+	"$phongboost" "1.00000"
+	"$halflambert" "1"
+	"$nocull"	"1"
+}

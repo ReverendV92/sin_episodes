@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/sirgibs/sinepisode/blade/bladeglasses"
+	"$model" 1
+	"$selfillum" 1
+	"$bumpmap" "models/sirgibs/sinepisode/blade/Bladeglasses_normal"	
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.2 0.2 0.2 ]"
+//	"$basealphaenvmapmask" 1
+}

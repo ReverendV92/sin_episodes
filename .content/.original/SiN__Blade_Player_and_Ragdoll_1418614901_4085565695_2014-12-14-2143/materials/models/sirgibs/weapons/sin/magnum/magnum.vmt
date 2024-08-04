@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/sirgibs/weapons/sin/magnum/magnum"
+	"$model" "1"
+	"$halflambert" "1"
+	"$phong" "1"
+	"$phongexponent" "22.000000"
+	"$phongfresnelranges" "[ 0.100000 0.400000 1.000000 ]"
+	"$phongboost" "2.00000"
+	"$basemapalphaphongmask" "1"
+}
+
+
+
+
+
+
+
+

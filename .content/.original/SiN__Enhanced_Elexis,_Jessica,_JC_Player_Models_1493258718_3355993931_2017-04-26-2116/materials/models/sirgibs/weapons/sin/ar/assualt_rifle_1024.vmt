@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sirgibs\weapons\sin\ar\Assualt_Rifle_1024"
+	"$bumpmap" "models\sirgibs\weapons\sin\ar\Assualt_Rifle_1024_normal"
+	"$surfaceprop" "metal"
+	"$model" 1
+	"$selfillum" 1
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[1 0.5 1]"
+	"$nocull" "1"
+}

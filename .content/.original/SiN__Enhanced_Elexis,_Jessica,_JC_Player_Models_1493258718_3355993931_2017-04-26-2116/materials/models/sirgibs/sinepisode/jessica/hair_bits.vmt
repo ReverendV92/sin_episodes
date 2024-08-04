@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sirgibs\sinepisode\jessica\hair_bits"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	"$halflambert" 1
+	"$model" 1
+	"$nocull" 1
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sirgibs\weapons\sin\shotgun\v_scattergun_clip"
+	"$bumpmap" "models\sirgibs\weapons\sin\shotgun\v_scattergun_clip_normal"	
+	"$surfaceprop" "metal"
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[1 0.5 1]"
+	"$nocull" "1"
+}
