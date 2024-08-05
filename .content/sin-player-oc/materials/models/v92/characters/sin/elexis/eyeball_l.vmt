@@ -1,0 +1,28 @@
+eyerefract
+{
+$iris "engine/green_iris_bright_02" 
+$ambientoccltexture "engine/survivor_eye_ao" 
+$envmap "engine/eye-reflection-cubemap-" 
+$corneatexture "engine/eye-cornea" 
+$eyeballradius "0.6" 
+$ambientocclcolor "[.4 .4 .4]" default 0.33, 0.33, 0.33
+$dilation ".5" 
+$parallaxstrength "0.25" 
+$corneabumpstrength ".5" 
+$glossiness 0.5
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+
+$raytracesphere 1 
+$spheretexkillcombo 0 
+
+// dx8 ps.1.1 fallbacks, original hl2 eyes
+"eyes_dx8"
+{
+	"$basetexture"		"models/v92/characters/sin/elexis/eyeball_l"
+	"$iris" 		"models/v92/characters/sin/elexis/pupil_l"
+	"$halflambert" 1
+	"$nodecal" "1"
+	}
+}

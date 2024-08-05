@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+    "$basetexture" "models/v92/characters/sin/jc/head"
+	"$bumpmap" "models/v92/characters/sin/jc/head_normal"
+	"$model" 1
+	"$nocull" 1
+	"$halflambert" 1
+	
+	"$phong" "1"
+	"$phongexponent" "16.000000"
+	"$phongfresnelranges" "[ 0.200000 0.600000 1.000000 ]"
+	"$phongboost" "1.00000"
+}

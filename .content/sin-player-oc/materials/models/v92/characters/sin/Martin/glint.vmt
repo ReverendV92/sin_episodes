@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: AddTexture
+	"$basetexture" "models/v92/characters/sin/martin/glint"
+	"$additive" 1
+	"$model" 1
+}

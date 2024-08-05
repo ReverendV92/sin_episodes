@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture" "models/v92/characters/sin/garrison/Head"
+	"$surfaceprop" "flesh"
+	"$model" 1
+	"$halflambert" 1
+	
+}

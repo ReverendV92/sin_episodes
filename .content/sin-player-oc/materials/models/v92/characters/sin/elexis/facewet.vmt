@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/face"
+	"$bumpmap" "models/v92/characters/sin/elexis/face_normal"
+	"$nocull" 1
+	"$halflambert" 1
+	
+	"$phong" "1"
+	"$phongexponent" "4.0"
+	"$phongfresnelranges" "[ 0.2 0.6 1.0 ]"
+	"$phongboost" "5.0"
+}

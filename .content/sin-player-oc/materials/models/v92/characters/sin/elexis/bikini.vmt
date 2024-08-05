@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/bikini"
+	"$mostlyopaque" 1
+	"$translucent" 1
+	"$nocull" 1
+}

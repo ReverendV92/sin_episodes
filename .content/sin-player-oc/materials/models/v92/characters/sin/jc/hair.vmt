@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$color" "[1 1 1]"
+	"$basetexture" "models/v92/characters/sin/jc/hair"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1	
+	"$halflambert" 1
+	"$model" 1
+	"$nocull" 1
+}

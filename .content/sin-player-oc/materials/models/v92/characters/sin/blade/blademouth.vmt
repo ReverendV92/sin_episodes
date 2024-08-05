@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	$basetexture models/v92/characters/sin/blade/blademouth
+	// $bumpmap models/characters/jessica/jessica body normals
+	// $envmap env_cubemap
+	// $envmaptint "[ 0.05 0.05 0.05 ]"
+	// $normalmapalphaenvmapmask 1
+}

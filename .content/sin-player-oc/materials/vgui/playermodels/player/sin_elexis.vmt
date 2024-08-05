@@ -1,0 +1,10 @@
+
+unlitgeneric
+{
+
+	$basetexture dev/bump_normal
+	$vertexcolor 1 
+	$vertexalpha 1 
+	$nolod 1
+
+}

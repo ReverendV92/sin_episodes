@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/suit"
+	"$bumpmap" "models/v92/characters/sin/elexis/suit_n"
+	"$surfaceprop" "flesh"
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongexponent" "16.0"
+	"$phongfresnelranges" "[ 0.2 0.6 1.0 ]"
+	"$phongboost" "1.0"
+}

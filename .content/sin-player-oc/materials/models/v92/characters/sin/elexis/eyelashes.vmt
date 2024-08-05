@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/face"
+	"$translucent" 1	
+	// "$nocull" 1
+}

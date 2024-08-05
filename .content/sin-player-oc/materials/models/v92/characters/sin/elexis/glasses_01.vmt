@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/glasses_01"
+	//"$bumpmap" ""
+	//"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.25 0.25 0.25]"
+	"$translucent" "1"
+	"$envmap" "env_cubemap"
+	//"$envmap" "cube_maps/winglass_01"
+}

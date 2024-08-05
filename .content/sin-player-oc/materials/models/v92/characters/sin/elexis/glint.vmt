@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	// original shader: addtexture
+	"$basetexture" "models/v92/characters/sin/elexis/glint"
+	"$additive" 1
+	"$model" 1
+}

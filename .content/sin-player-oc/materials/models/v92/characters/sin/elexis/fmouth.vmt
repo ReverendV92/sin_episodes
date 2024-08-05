@@ -1,0 +1,7 @@
+"teeth"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/fmouth"
+	"$clientshader" "mouthshader"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

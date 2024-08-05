@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/crimelord/glint"
+	"$additive" 1
+	"$model" 1
+}

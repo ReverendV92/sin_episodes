@@ -1,0 +1,8 @@
+"teeth"
+{
+	"$basetexture" "models/v92/characters/sin/crimelord/fmouth"
+	"$clientshader" "mouthshader"
+	"$model" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+}

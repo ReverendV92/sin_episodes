@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/elexis/hair"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1	
+	"$halflambert" "1"
+	"$nocull" 1
+}

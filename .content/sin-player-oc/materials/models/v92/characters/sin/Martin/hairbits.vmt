@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$color" "[1 1 1]"
+	"$baseTexture" "models/v92/characters/sin/martin/hairbits"
+	"$selfIllum" "0"
+	"$translucent" 1
+	"$mostlyopaque" 1
+	"$model" 1
+	"$nocull" 1
+}

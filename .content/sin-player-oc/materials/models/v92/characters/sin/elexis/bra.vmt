@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+	"$basetexture" "models/v92/characters/sin/elexis/bra"
+	"$surfaceprop" "flesh"
+	"$alphatest" "1"
+	"$nocull" 1
+} 

@@ -1,0 +1,7 @@
+"eyes"
+{
+	"$baseTexture"		"models/v92/characters/sin/garrison/eyeball_l"
+	"$iris" 		"models/v92/characters/sin/garrison/pupil_l"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

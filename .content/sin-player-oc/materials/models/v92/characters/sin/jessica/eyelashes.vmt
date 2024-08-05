@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/jessica/jessica_head_skin_d"
+	"$translucent" 1	
+	"$model" 1
+//	"$nocull" 1
+}

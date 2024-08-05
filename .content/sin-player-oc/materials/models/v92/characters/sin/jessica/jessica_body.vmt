@@ -1,0 +1,12 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/v92/characters/sin/jessica/jessica body"
+	"$bumpmap" "models/v92/characters/sin/jessica/jessica_body_normals"
+	"$model" 1
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" "16.000000"
+	"$phongfresnelranges" "[ 0.200000 0.600000 1.000000 ]"
+	"$phongboost" "0.50000"	
+}

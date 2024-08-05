@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$color"				"[1 1 1]"
+	"$basetexture"			"models/v92/characters/sin/jc/teeth"
+	"$selfillum"			0
+	"$translucent"			0
+	"$alpha"				1
+}
