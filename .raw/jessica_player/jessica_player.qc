@@ -321,7 +321,6 @@ $bonemerge "ValveBiped.Bip01_R_Forearm"
 $bonemerge "ValveBiped.Bip01_R_Hand"
 $bonemerge "ValveBiped.Anim_Attachment_RH"
 
-
 $poseparameter "move_yaw" -180 180 loop 0
 
 $ikchain "rhand" "ValveBiped.Bip01_R_Hand" knee 0.707 0.707 0
